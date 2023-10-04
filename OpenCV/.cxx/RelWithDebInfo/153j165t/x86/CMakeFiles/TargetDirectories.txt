@@ -1,0 +1,3 @@
+C:/Users/yerson/AndroidStudioProjects/ucsp-dron/OpenCV/.cxx/RelWithDebInfo/153j165t/x86/CMakeFiles/opencv_jni_shared.dir
+C:/Users/yerson/AndroidStudioProjects/ucsp-dron/OpenCV/.cxx/RelWithDebInfo/153j165t/x86/CMakeFiles/edit_cache.dir
+C:/Users/yerson/AndroidStudioProjects/ucsp-dron/OpenCV/.cxx/RelWithDebInfo/153j165t/x86/CMakeFiles/rebuild_cache.dir
