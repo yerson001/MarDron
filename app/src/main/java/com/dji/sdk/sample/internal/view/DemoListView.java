@@ -59,7 +59,7 @@ import com.dji.sdk.sample.demo.timeline.TimelineMissionControlView;
 import com.dji.sdk.sample.demo.useraccount.LDMView;
 import com.dji.sdk.sample.internal.controller.DJISampleApplication;
 import com.dji.sdk.sample.internal.controller.ExpandableListAdapter;
-import com.dji.sdk.sample.internal.controller.MainActivity;
+import com.dji.sdk.sample.MainActivity;
 import com.dji.sdk.sample.internal.model.GroupHeader;
 import com.dji.sdk.sample.internal.model.GroupItem;
 import com.dji.sdk.sample.internal.model.ListItem;

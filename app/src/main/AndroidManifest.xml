@@ -51,7 +51,7 @@
             This is necessary for product when connecting over USB. -->
 
         <activity
-            android:name="com.dji.sdk.sample.internal.controller.MainActivity"
+            android:name="com.dji.sdk.sample.MainActivity"
             android:label="@string/sample_app_name"
             android:screenOrientation="portrait"
             android:launchMode="singleTop"

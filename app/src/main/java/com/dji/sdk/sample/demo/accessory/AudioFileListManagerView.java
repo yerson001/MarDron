@@ -31,7 +31,7 @@ import com.dji.sdk.sample.internal.audiohandler.AudioDecoder;
 import com.dji.sdk.sample.internal.audiohandler.MediaRecorderHandler;
 import com.dji.sdk.sample.internal.audiohandler.MediaRecorderOptions;
 import com.dji.sdk.sample.internal.controller.DJISampleApplication;
-import com.dji.sdk.sample.internal.controller.MainActivity;
+import com.dji.sdk.sample.MainActivity;
 import com.dji.sdk.sample.internal.utils.GeneralUtils;
 import com.dji.sdk.sample.internal.utils.ModuleVerificationUtil;
 import com.dji.sdk.sample.internal.utils.ToastUtils;

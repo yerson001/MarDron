@@ -6,7 +6,7 @@
                                               android:layout_gravity="center"
                                               android:clickable="true"
                                               android:orientation="vertical"
-                                              tools:context=".internal.controller.MainActivity">
+                                              tools:context=".MainActivity">
 
     <ProgressBar
         android:id="@+id/progress_bar"
@@ -133,7 +133,7 @@
         android:layout_below="@+id/btn_open"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="15dp"
-        android:text="@string/sdk_version"
+        android:text="Akguna version XD"
         android:textColor="@color/gray"
         android:textSize="15dp"/>
 

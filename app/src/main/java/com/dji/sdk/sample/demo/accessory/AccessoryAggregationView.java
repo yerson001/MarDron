@@ -17,7 +17,7 @@ import com.dji.sdk.sample.R;
 import com.dji.sdk.sample.internal.SeekBarValueChangeListener;
 import com.dji.sdk.sample.internal.audiohandler.AudioRecorderHandler;
 import com.dji.sdk.sample.internal.controller.DJISampleApplication;
-import com.dji.sdk.sample.internal.controller.MainActivity;
+import com.dji.sdk.sample.MainActivity;
 import com.dji.sdk.sample.internal.utils.ModuleVerificationUtil;
 import com.dji.sdk.sample.internal.utils.ToastUtils;
 import com.dji.sdk.sample.internal.view.PopupSeekBar;

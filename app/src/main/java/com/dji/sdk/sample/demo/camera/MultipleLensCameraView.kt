@@ -9,8 +9,8 @@ import android.widget.LinearLayout
 import android.widget.TextView
 import com.dji.sdk.sample.R
 import com.dji.sdk.sample.internal.controller.DJISampleApplication
-import com.dji.sdk.sample.internal.controller.MainActivity.RequestEndFullScreenEvent
-import com.dji.sdk.sample.internal.controller.MainActivity.RequestStartFullScreenEvent
+import com.dji.sdk.sample.MainActivity.RequestEndFullScreenEvent
+import com.dji.sdk.sample.MainActivity.RequestStartFullScreenEvent
 import com.dji.sdk.sample.internal.utils.*
 import com.dji.sdk.sample.internal.view.PresentableView
 import dji.common.airlink.PhysicalSource

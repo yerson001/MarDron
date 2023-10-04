@@ -2,15 +2,11 @@ package com.dji.sdk.sample.demo.lidar
 
 import android.app.Service
 import android.content.Context
-import android.util.Log
 import android.view.Gravity
 import android.view.LayoutInflater
 import android.view.View
 import android.widget.LinearLayout
-import android.widget.TextView
 import com.dji.sdk.sample.R
-import com.dji.sdk.sample.internal.controller.DJISampleApplication
-import com.dji.sdk.sample.internal.controller.MainActivity
 import com.dji.sdk.sample.internal.utils.ToastUtils
 import com.dji.sdk.sample.internal.utils.ViewHelper
 import com.dji.sdk.sample.internal.view.PopupNumberPicker
